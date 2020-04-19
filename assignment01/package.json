@@ -1,0 +1,15 @@
+{
+  "name": "assigment01",
+  "version": "1.0.0",
+  "description": "My bio page",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "npx http-server"
+  },
+  "author": "Christopher Yip",
+  "license": "ISC",
+  "dependencies": {
+    "http-server": "^0.12.1"
+  }
+}
